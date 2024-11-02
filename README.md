@@ -1,15 +1,16 @@
-## Hi there 👋
+### boas vendas ao meu perfil💙
 
-<!--
-**Micaelazangolo/Micaelazangolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Micaela zangolo
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https://www.alura.com.br)
+- estou me desenvolvido na linguagem javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ### você entrar em contato comigo📫
+
+ micaelamabiala@gmail.com
+ 
+@micaelazangolo
+
+![](https://github.com/user-attachments/assets/881782ce-b42a-4cf9-8614-409ab32d946d)
+
